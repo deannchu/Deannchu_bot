@@ -11,4 +11,5 @@ id_main_news/
 id_spb_news/
 id_int_news/
 id_polit_news/
-id_econ_news
+id_econ_news/
+scraper.py
