@@ -1,0 +1,14 @@
+pycache/
+config/
+all_news_dict/
+main_news_dict/
+spb_news_dict/
+interesting_news_dict/
+political_news_dict/
+econ_news_dict/
+id_all_news/
+id_main_news/
+id_spb_news/
+id_int_news/
+id_polit_news/
+id_econ_news
